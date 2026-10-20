@@ -1,0 +1,6 @@
+{
+  "name": "TinySteps 🌱 - Daily Habit Tracker",
+  "description": "Build lasting habits through micro-actions. Track your big goals with 2-minute tiny habits, daily streaks, and small wins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
